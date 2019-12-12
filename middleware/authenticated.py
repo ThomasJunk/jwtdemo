@@ -7,7 +7,7 @@ import falcon
 import crypto
 
 
-def login_required(req, resp, resource, params):
+def authenticated(req, resp, resource, params):
     """Checks whether user is logged in
     Args:
         req (object): Request
