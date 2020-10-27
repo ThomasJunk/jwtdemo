@@ -1,6 +1,6 @@
 autopep8==1.4.4
 cffi==1.13.2
-cryptography==2.8
+cryptography==3.2
 entrypoints==0.3
 falcon==2.0.0
 fancycompleter==0.8
